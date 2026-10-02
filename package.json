@@ -1,0 +1,14 @@
+{
+  "name": "webhook-testing-examples",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local webhook lab: raw-body HMAC verification, duplicate delivery handling, and reproducible failure tests.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}

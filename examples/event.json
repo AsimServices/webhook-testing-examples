@@ -1,0 +1,1 @@
+{"id":"demo-event-001","type":"order.created","data":{"orderId":"demo-order","total":1250,"currency":"USD"}}
